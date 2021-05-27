@@ -3,12 +3,7 @@
     padding:0;
     
  }
- #name{
-     width: 80%;
-     padding: 5px;
-     background border-radius: 5%;
-     border:1px solid lightgray;
- }
+
  body{
     background-color: blueviolet;
 }
