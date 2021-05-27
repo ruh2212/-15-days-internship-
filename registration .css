@@ -1,0 +1,26 @@
+*{
+    margin:center;
+    padding:0;
+    
+ }
+ #name{
+     width: 80%;
+     padding: 5px;
+     background border-radius: 5%;
+     border:1px solid lightgray;
+ }
+ body{
+    background-color: blueviolet;
+}
+table{
+    mask-position : center;
+    color: black;
+    background-color: pink;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: serif;
+    padding: 5px;
+    border: 10px solid white;
+    text-align:center;
+
+}
