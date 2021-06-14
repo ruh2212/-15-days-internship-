@@ -3,7 +3,7 @@
 $connection = mysqli_connect("localhost","root","","db_intrenship");
  
 //query
-$q = mysqli_query($connection,"select * from tbl_user") or die(mysqli_error($connection));
+$q = mysqli_query($connection,"select * from tbl_studernt") or die(mysqli_error($connection));
 
 echo"<table border='1'>";
 
